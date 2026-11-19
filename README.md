@@ -8,3 +8,5 @@
 
 # Ꙏ𝞂𝞘ί𝗹𝗹𝙤 ᶻ 𝗓 𐰁
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=evansalmun&theme=forest)
+
